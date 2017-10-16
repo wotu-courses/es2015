@@ -1,5 +1,14 @@
+### 教程使用指南
+* 下载压缩包或运行命令 git clone https://github.com/wotu-courses/es2015.git
+* 运行 npm i
+* 运行 npm start
+
+### 如何进行练习
+* 方法一在index.js里面写你要练习的代码
+* 方法二chrome浏览器控制台，把以下代码复制到控制台运行
+
+
 ### es6（7）常用知识点
-请打开chrome浏览器控制台，把以下代码复制到控制台运行
 1. 块级作用域
 ```
 if (true) {
